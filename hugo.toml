@@ -1,3 +1,8 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+#######################default config
+baseURL = "https://maroli-ict.nl"
+title = "Maroli ICT | Test Site"
+theme = "ananke"
+languageName = "Nl"
+languageCode = "nl-nl"
+paginate = "8"
+summaryLength = "30"
